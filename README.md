@@ -16,9 +16,9 @@ Overall, the project demonstrates practical usage of LinkedList, Stack, Queue, a
 
 1
 <img width="1440" height="900" alt="task1" src="https://github.com/user-attachments/assets/fb2bc65f-d8f0-4011-b2b6-7f17c4377a8f" />
-<img width="1440" height="900" alt="1 4" src="https://github.com/user-attachments/assets/fe81a851-db73-4b75-871a-e1d879b4ac94" />
-<img width="1440" height="900" alt="1 3" src="https://github.com/user-attachments/assets/062e25d3-0fd6-4e4c-ab28-e5fe96dd67eb" />
 <img width="1440" height="900" alt="1 2" src="https://github.com/user-attachments/assets/69fd2aeb-6347-4604-b627-1b0611d9b900" />
+<img width="1440" height="900" alt="1 3" src="https://github.com/user-attachments/assets/062e25d3-0fd6-4e4c-ab28-e5fe96dd67eb" />
+<img width="1440" height="900" alt="1 4" src="https://github.com/user-attachments/assets/fe81a851-db73-4b75-871a-e1d879b4ac94" />
 <img width="1440" height="900" alt="1 4" src="https://github.com/user-attachments/assets/fe81a851-db73-4b75-871a-e1d879b4ac94" />
 2
 <img width="1440" height="900" alt="2 4" src="https://github.com/user-attachments/assets/1860d3ac-6849-4b4b-96f2-3ba01aac797b" />
